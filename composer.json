@@ -6,5 +6,10 @@
         "psr-4": {
             "jpuck\\version\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "jpuck\\version\\tests\\": "tests/"
+        }
     }
 }
